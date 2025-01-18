@@ -1,5 +1,9 @@
 H!👋 **I'm Joe.**
 
+
+- 🌱 I’m currently learning Big Data Analytics and Information Technology, MS
+- 💬 Ask me about MongoDB 
+
 <!--
 **JoeNyongesa/JoeNyongesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
