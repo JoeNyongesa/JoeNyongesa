@@ -1,6 +1,5 @@
-H!👋 **I'm Joe.**
-
-- 💬 Ask me about MongoDB 
+H!👋 **I'm Joe,**
+- 💬 Ask me about NoSQL Databases
 - 🌱 I’m currently learning Big Data Analytics and Information Technology, MS
 
 <!--
